@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #037F99;
+    font-family: 'Baloo Paaji', cursive;
+    
+}
+
+nav{
+	color: white;
+}
+
+.home{
+	display: flex;
+}
+
+nav li a{
+	justify-content: space-around;
+	align-content: flex-end;
+}
